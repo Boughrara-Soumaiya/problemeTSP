@@ -33,4 +33,4 @@ Puis, installez les bibliothèques nécessaires avec la commande suivante :
 
 ## Créatrices 
 
-Projet réalisé dans le cadre de la L3 en Intelligence Artificielle avec [MARIE-JOSEPH Emmy](https://github.com/emmy03).
+Projet réalisé dans le cadre de la L3DDDI en Intelligence Artificielle avec [MARIE-JOSEPH Emmy](https://github.com/emmy03).
